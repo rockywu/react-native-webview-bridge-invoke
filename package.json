@@ -1,12 +1,12 @@
 {
   "name": "react-native-webview-bridge-invoke",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Native and webview communication, only support the react-native-webview-bridge",
   "main": "invoke.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release" : "npm publish",
-    "patch" : "npm version patch && npm run release"
+    "release": "npm publish",
+    "patch": "npm version patch && npm run release"
   },
   "repository": {
     "type": "git",
