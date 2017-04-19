@@ -1,0 +1,25 @@
+{
+  "name": "react-native-webview-bridge-invoke",
+  "version": "0.9.0",
+  "description": "Native and webview communication, only support the react-native-webview-bridge",
+  "main": "invoke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release" : "npm publish",
+    "patch" : "npm version patch && npm run release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockywu/react-native-webview-bridge-invoke.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-webview-bridge"
+  ],
+  "author": "rockywu <wjl19890427@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockywu/react-native-webview-bridge-invoke/issues"
+  },
+  "homepage": "https://github.com/rockywu/react-native-webview-bridge-invoke#readme"
+}
